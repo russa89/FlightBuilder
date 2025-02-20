@@ -20,4 +20,3 @@ public class Flight {
                 .collect(Collectors.joining(" "));
     }
 }
-

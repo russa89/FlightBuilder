@@ -41,3 +41,4 @@ public class FlightBuilder {
         return new Flight(segments);
     }
 }
+
