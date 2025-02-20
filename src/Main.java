@@ -16,4 +16,3 @@ public class Main {
         System.out.println("\nFiltered Flights:" + filteredFlights);
             }
         }
-
